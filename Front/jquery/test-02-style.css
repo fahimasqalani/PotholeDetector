@@ -1,0 +1,11 @@
+div#expander {
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+
+div#expander2 {
+	width:100px;
+	height:100px;
+	background-color:yellow;
+}
