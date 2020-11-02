@@ -2,4 +2,4 @@
 ~Create a system that can detect any pothole in the city.~
 Deprecated
 # Update
-Discarded project
+Discarded project T_T
