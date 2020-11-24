@@ -1,5 +1,5 @@
 # PotholeDetector
-~Create a system that can detect any pothole in the city.~
+~Create a system that can detect any pothole in the city.~~
 
 Deprecated
 
