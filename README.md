@@ -4,4 +4,4 @@
 Deprecated
 
 # Update
-Discarded Project T__T
+Discarded Project 
